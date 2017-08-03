@@ -6,5 +6,7 @@ int main() {
 
   printf("Hello World again, how are you ?\n");
 
+  printf("Excusez moi, vous êtes français, comment allez vous ?\n");
+
   return(0);
 }
