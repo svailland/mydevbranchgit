@@ -10,5 +10,7 @@ int main() {
 
   printf("Excusez moi de nouveau, auriez vous l'heure ?\n");
 
+  printf("Excusez moi à nouveau, pourriez vous m'indiquer le chemin de l'ESEO ?\n");
+
   return(0);
 }
